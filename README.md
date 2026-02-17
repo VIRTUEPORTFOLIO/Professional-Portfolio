@@ -1,4 +1,38 @@
-# professional-portfolio
-My personal site to show my CS projects and skills. Built with basic HTML and CSS.
+<h1 align="left">Hey👋. This is my professional-portfolio</h1>
 
-I built this portfolio to have a central place for my IT applications. I didn't use any heavy frameworks—just pure HTML and CSS—because I wanted to make sure I understood the basics of page layout and responsive design first. It contains my bio, my skill set, and links to the other backend work I’ve been doing.
+###
+
+<p align="left">My personal site to show my CS projects and skills. Built with basic HTML and CSS. ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+I built this portfolio to have a central place for my IT applications. <br>📚 I didn't use any heavy frameworks—just pure HTML and CSS—because I wanted to make sure I understood the basics of page layout and responsive design first.<br>🎯 It contains my bio, my skill set, and links to the other backend work I’ve been doing. <br>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
